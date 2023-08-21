@@ -5,8 +5,8 @@
  * @param {number} b
  * @returns {number}
  */
-function index(a, b) {
-  return a + b;
+function index(a, b, c) {
+  return a + b + c;
 }
 
 console.assert(index(5, 6) === 10);
