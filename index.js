@@ -9,4 +9,4 @@ function index(a, b) {
   return a + b;
 }
 
-console.assert(index(8, 9) === 17);
+console.assert(index(5, 6) === 10);
